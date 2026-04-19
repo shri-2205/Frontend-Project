@@ -6,12 +6,6 @@
 
 ---
 
-## 📸 Preview
-
-![WanderLux Travel Agency](https://picsum.photos/seed/wanderlux-preview/1200/600)
-
----
-
 ## 🚀 Tech Stack
 
 | Technology | Purpose |
